@@ -107,5 +107,18 @@
 }
 
 .quote-section {
-  background-color: #e5e7eb;
+  background-color: #000;
+  color: #fff;
+  padding: 100px 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.quote {
+  font-size: 36px;
+  text-align: center;
+}
+
+.quote-author {
+  align-self: flex-end;
 }
